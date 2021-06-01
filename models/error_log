@@ -1,0 +1,2 @@
+[16-Feb-2021 10:49:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'eflozdo_qwickha'@'localhost' (using password: YES) in /home/reflozdo/qwickhand.reflomsolutions.com/application/models/job.php on line 7
+[18-Feb-2021 05:19:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'eflozdo_qwickha'@'localhost' (using password: YES) in /home/reflozdo/qwickhand.reflomsolutions.com/application/models/job.php on line 7
